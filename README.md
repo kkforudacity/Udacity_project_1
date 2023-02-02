@@ -1,12 +1,12 @@
 PYTHON LIBRARIES USED
 
-•	pandas
+•	pandas - used to read and work with the data in the csv files 
 
-•	matplotlib
+•	matplotlib - used for the plots
 
-•	sklearn.linear_model
+•	sklearn.linear_model - used to fit the linear regression model
 
-•	datetime
+•	datetime - used to work with the date stamps
 
 PROJECT MOTIVATION
 
