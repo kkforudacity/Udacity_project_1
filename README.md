@@ -8,6 +8,8 @@ PYTHON LIBRARIES USED
 
 •	datetime - used to work with the date stamps
 
+•	numpy - used for some number analysis
+
 PROJECT MOTIVATION
 
 When surveying the internet for different datasets to analyze for the first project of the udacity data science nanodegree, it was interesting to come across the Chicago data portal that stored a wide variety of datasets relating to the city. The data that interested me most in this portal was the data logging taxi trips taken across the city. Each recent calendar year has a full dataset with records of the distinct taxi trips taken through the year with details such as the time and date of the trip, fare, tip paid, company used, pick up and drop off community area. I decided to explore the 2020 calendar year dataset while pairing it with income, population, and square area datasets for the different community areas sourced from other sites. The three questions I decided to explore are:
