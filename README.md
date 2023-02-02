@@ -20,7 +20,7 @@ When surveying the internet for different datasets to analyze for the first proj
 
 FILES USED
 
-chicago_taxi_2020.csv : This is the data that contains the records of all the taxi trips in 2020. It was sourced from the Chicago data portal at:
+chicago_taxi_2020.csv (not uploaded due to it's excessive file size but link provided below) : This is the data that contains the records of all the taxi trips in 2020. It was sourced from the Chicago data portal at:
 https://data.cityofchicago.org/Transportation/Taxi-Trips-2020/r2u4-wwk3
 
 chicago_communities.csv : This is the dataset that mapped the commununity area numbers to their names along with their 2020 populations and areas.
