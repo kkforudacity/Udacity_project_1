@@ -1,8 +1,11 @@
 PYTHON LIBRARIES USED
 
 •	pandas
+
 •	matplotlib
+
 •	sklearn.linear_model
+
 •	datetime
 
 PROJECT MOTIVATION
@@ -30,4 +33,6 @@ SUMMARY OF RESULTS
 
 The results generally indicated that the lockdowns in March 2020 had a significant effect on the use of taxi's in the year 2020 with steep declines in trip frequencies and tips paid that never recovered through the rest of the year. The data also showed that the time of day, payment type, and community area had the most significant relation with the tip rate of the variables analysed. The tips paid positively correlated with early night trips, credit card and mobile payments, and trips in O'Hare, Garfield Ridge and the loop. Population and the historical median houselold income were both found to moderately positively influence the number of trips in the community areas 
 
+ACKNOWLEDGEMENTS
 
+I acknowledge Chicago city for gathering and publishing several interesting datasets including the one analysed in this project. The various datasource links and image for the blog post have been referenced in other sections therefore won't be repeated here
