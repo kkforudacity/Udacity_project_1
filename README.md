@@ -31,7 +31,8 @@ https://www.chicagomag.com/Chicago-Magazine/April-2006/The-Geography-of-Money/
 
 SUMMARY OF RESULTS
 
-The results generally indicated that the lockdowns in March 2020 had a significant effect on the use of taxi's in the year 2020 with steep declines in trip frequencies and tips paid that never recovered through the rest of the year. The data also showed that the time of day, payment type, and community area had the most significant relation with the tip rate of the variables analysed. The tips paid positively correlated with early night trips, credit card and mobile payments, and trips in O'Hare, Garfield Ridge and the loop. Population and the historical median houselold income were both found to moderately positively influence the number of trips in the community areas 
+The results generally indicated that the lockdowns in March 2020 had a significant effect on the use of taxi's in the year 2020 with steep declines in trip frequencies and tips paid that never recovered through the rest of the year. The data also showed that the time of day, payment type, and community area had the most significant relation with the tip rate of the variables analysed. The tips paid positively correlated with early night trips, credit card and mobile payments, and trips in O'Hare, Garfield Ridge and the loop. Population and the historical median houselold income were both found to moderately positively influence the number of trips in the community areas. The detailed explanations of these results can be found at the following article:
+https://medium.com/@kk23/2020-chicago-taxi-trips-data-analysis-f83c4e9250b8
 
 ACKNOWLEDGEMENTS
 
